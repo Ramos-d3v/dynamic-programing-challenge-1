@@ -1,6 +1,6 @@
 # GS - Dynamic Programming: Sistema de Irrigação Automatizado via SaaS 🛰️💧
 
-**Curso:** Engenharia de Software - 2° Ano (FIAP)  
+**Curso:** Engenharia de Software - Global Solution - 2° Ano (FIAP)  
 **Disciplina:**  Programação Dinâmica  
 
 ## 👥 Integrantes do Grupo
